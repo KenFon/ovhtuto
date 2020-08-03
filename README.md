@@ -41,21 +41,21 @@ minimum car le tuto sera fait sur archlinux.
 Ne prenez pas d'option supplémentaire, faites suivant jusqu'a payer. ( la partie la plus 
 douloureuse je vous l'accorde !!)
 
-### CONSERVER LE MAIL QU'OVH VOUS ENVOIE !!! IL SERA INDISPENSABLE.
+### CONSERVEZ LE MAIL QU'OVH VOUS ENVOIE !!! IL SERA INDISPENSABLE.
 Vous allez en recevoir plusieurs. Ils sont tous importants. Vous devrez recevoir pas mal
-d'information pour vous connectez ( à votre compte ovh et sur votre serveur... )
-Celà peut prendre un peu de temps donc pas de panique.
+d'information pour vous connecter ( à votre compte ovh et sur votre serveur... )
+Cela peut prendre un peu de temps donc pas de panique.
 
 Achat d'un nom de domaine.
 --------------------------
-Si vous voulez faire les choses bien, vous pouvez également vous achetez un nom de domaine
+Si vous voulez faire les choses bien, vous pouvez également vous acheter un nom de domaine
 ( une adresse internet, comme "toto.fr" )
 Plusieurs sites proposes cette fonctionnalité. Tant qu'on y est, autant le prendre sur
 ovh aussi.
 
 Pour cela, rendez-vous également sur Ovh.com
 
-- Descendre jusqu'a l'encadrer "Saisir un nom de domaine"
+- Descendre jusqu'à l'encadrer "Saisir un nom de domaine"
 
 ![](images/nomdedomaine.png)
 
